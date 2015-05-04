@@ -46,8 +46,6 @@
         
     }];
     [self addHttpRequestOperation:cRequsetOperation];
-    
-    
 }
 -(void)requestWithFormEncoded:(NSString*)acstrURL paramerters:(NSDictionary*)acdicInfo {
     
